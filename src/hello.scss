@@ -1,0 +1,14 @@
+$border-style: 1px solid red;
+
+body {
+  background: #bbbbbb;
+
+  div {
+    margin: 2rem;
+    padding: 1rem;
+    border: $border-style;
+  }
+}
+.box {
+  display: flex;
+}
